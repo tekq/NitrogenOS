@@ -1,6 +1,3 @@
-# Nitrogen-Linux
-Performance, now simple, while keeping it simple
+# Nitrogen-Linux Website Branch
 
-Nitrogen is a Linux distribution based on Arch Linux but with a custom package manager named Elements. Nitrogen focuses on the KISS(keep it simple stupid) principle.
-
-This GitHub repo is made to have the Nitrogen Linux ISO and Website.
+This Branch contains only the website files and the GitHub page.
